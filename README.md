@@ -1,5 +1,6 @@
 # web1
 HTML, CSS, Javascript를 공부해 간단한 웹페이지를 제작해보았습니다.
+0-lingual.github.io/web1/index.html 을 방문해주세요.
 
 다음과 같은 기능을 포함해보았습니다.
 
